@@ -2,7 +2,7 @@ source "http://rubygems.org"
 
 gem 'json', '~> 1.5', '>= 1.5.1'
 # gem 'algoliasearch', '~> 1.13.0'
-gem 'algoliasearch', '1.13.0'
+gem 'algoliasearch', '~> 1.13'
 
 if defined?(RUBY_ENGINE) && RUBY_ENGINE == 'rbx'
   gem 'rubysl', '~> 2.0', :platform => :rbx
