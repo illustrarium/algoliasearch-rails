@@ -175,7 +175,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord-jdbc-adapter
   activerecord-jdbcsqlite3-adapter
-  algoliasearch (~> 1.13.0)
+  algoliasearch (= 1.13.0)
   jdbc-sqlite3
   json (~> 1.5, >= 1.5.1)
   kaminari
